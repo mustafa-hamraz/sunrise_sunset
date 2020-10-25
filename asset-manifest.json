@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sunrise_sunset/static/css/main.b5f58b0a.chunk.css",
+    "main.js": "/sunrise_sunset/static/js/main.bb59aacf.chunk.js",
+    "main.js.map": "/sunrise_sunset/static/js/main.bb59aacf.chunk.js.map",
+    "runtime-main.js": "/sunrise_sunset/static/js/runtime-main.54681b36.js",
+    "runtime-main.js.map": "/sunrise_sunset/static/js/runtime-main.54681b36.js.map",
+    "static/js/2.600cbfa8.chunk.js": "/sunrise_sunset/static/js/2.600cbfa8.chunk.js",
+    "static/js/2.600cbfa8.chunk.js.map": "/sunrise_sunset/static/js/2.600cbfa8.chunk.js.map",
+    "static/js/3.b0a2117a.chunk.js": "/sunrise_sunset/static/js/3.b0a2117a.chunk.js",
+    "static/js/3.b0a2117a.chunk.js.map": "/sunrise_sunset/static/js/3.b0a2117a.chunk.js.map",
+    "index.html": "/sunrise_sunset/index.html",
+    "static/css/main.b5f58b0a.chunk.css.map": "/sunrise_sunset/static/css/main.b5f58b0a.chunk.css.map",
+    "static/js/2.600cbfa8.chunk.js.LICENSE.txt": "/sunrise_sunset/static/js/2.600cbfa8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54681b36.js",
+    "static/js/2.600cbfa8.chunk.js",
+    "static/css/main.b5f58b0a.chunk.css",
+    "static/js/main.bb59aacf.chunk.js"
+  ]
+}

@@ -1,38 +1,34 @@
 .App {
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.tillbaka_btn{
+  background-color: thistle;
+  color: rgb(0, 0, 0);
+  border-radius: 5px 0 5px 0;
+  border: none;
+  height: 4vh;
+  margin: 0;
+}
+.tillbaka_btn:hover{
+  background-color: rgb(246, 170, 246);;
+  color: black;
+  cursor: pointer;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.main_menu{
+  background-color: thistle;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex-flow: column;
+  justify-content: flex-start;
+  padding-top: 1.5rem;
+  height: 100vh;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.main_menu button{
+  margin: 1rem;
+  height: 3rem;
+  outline: none;
+  cursor: pointer;
+ font-size: large;
 }
